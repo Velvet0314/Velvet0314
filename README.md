@@ -1,12 +1,16 @@
-### Hi there
+## Hi there
 
 A student from China University of Petroleum (East China)
 
 Now learning Frontend, ML & DL.
 
-### Tech Stacks
+## statistics
 
-#### Programming Languages
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Velvet0314&theme=buefy&show_icons=true" /> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velvet0314&theme=buefy&layout=compact&card_width=350" />
+
+## Tech Stacks
+
+### Programming Languages
 
 - Elementary
 
@@ -18,7 +22,7 @@ Now learning Frontend, ML & DL.
 
     <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
-#### Tools
+### Tools
 
 - Elementary
 
@@ -27,8 +31,3 @@ Now learning Frontend, ML & DL.
 - Using
   
     <img src="http://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/-VsCode-007ACC?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0yMy4xNSAyLjU4N0wxOC4yMS4yMWExLjQ5NCAxLjQ5NCAwIDAgMC0xLjcwNS4yOWwtOS40NiA4LjYzLTQuMTItMy4xMjhhLjk5OS45OTkgMCAwIDAtMS4yNzYuMDU3TC4zMjcgNy4yNjFBMSAxIDAgMCAwIC4zMjYgOC43NEwzLjg5OSAxMiAuMzI2IDE1LjI2YTEgMSAwIDAgMCAuMDAxIDEuNDc5TDEuNjUgMTcuOTRhLjk5OS45OTkgMCAwIDAgMS4yNzYuMDU3bDQuMTItMy4xMjggOS40NiA4LjYzYTEuNDkyIDEuNDkyIDAgMCAwIDEuNzA0LjI5bDQuOTQyLTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMjAuMDZWMy45MzlhMS41IDEuNSAwIDAgMC0uODUtMS4zNTJ6bS01LjE0NiAxNC44NjFMMTAuODI2IDEybDcuMTc4LTUuNDQ4djEwLjg5NnoiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=ffffff"> <img src="http://img.shields.io/badge/-Jupyter-white?style=flat&logo=jupyter&logoColor=orange">
-
-### statistics
-
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Velvet0314&theme=buefy&show_icons=true" /> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velvet0314&theme=buefy&layout=compact&card_width=350" />
-  

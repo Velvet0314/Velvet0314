@@ -6,7 +6,7 @@ Now learning Frontend, ML & DL.
 
 ## statistics
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Velvet0314&theme=buefy&show_icons=true" /> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velvet0314&theme=buefy&layout=compact&card_width=350" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Velvet0314&theme=buefy&show_icons=true&include_all_commits=true" /> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velvet0314&theme=buefy&layout=compact&card_width=350" />
 
 ## Tech Stacks
 

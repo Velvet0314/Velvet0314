@@ -3,11 +3,9 @@
 
 From China University of Petroleum (East China).
 
-
-
 ## statistics
 
-<img align="center" height="180em" src="https://api.velvet-notes.org/api?username=Velvet0314&theme=buefy&show_icons=true&include_all_commits=true&hide_border=true" /> <img align="center" height="180em" src="https://api.velvet-notes.org/api/wakatime?username=LQY&layout=compact&hide_border=true&langs_count=6" /> 
+<img align="center" height="180em" src="https://api.velvet-notes.org/api?username=Velvet0314&theme=buefy&show_icons=true&include_all_commits=true&hide_border=true" /> <img align="center" width="410px" src="https://api.velvet-notes.org/api/wakatime?username=LQY&layout=compact&hide_border=true&langs_count=6" /> 
 
 
 ## Tech Stacks
